@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello people! 👋
 I am s1r_cheese and I like to make random stuff I came up with in my mind.
 I can code in JavaScript, Java, C#, HTML(5), and CSS.
 I like reverse engineering things as well.
