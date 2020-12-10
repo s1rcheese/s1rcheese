@@ -1,13 +1,23 @@
 ### Hello people! 👋
 ## I am s1r_cheese and I like to make random stuff I came up with in my mind.
 
-I can code in JavaScript, Java, C#, HTML(5), and CSS.
+# Languages I know
+JavaScript, Java, C#, HTML(5), and CSS(3)
 
-I like reverse engineering things as well.
+I also know English
 
-I am currently a Dev at a server named DreamDimensions.
+# Stuff I like to
+Reverse engineer things.
 
-I also am working on a top-secert project. What is it? I haven't decided yet (BTW if you contact me please tell me something cool I can make because I can not think of it).
+Talk to myself in the mirror.
+
+Break my stuff and fix it again.
+
+# I am a dev for
+
+a Minecraft sever named DreamDimensions.
+
+A top-secert project that I haven't decided on what it is going to be about.
 ## Ok thank you!
 
 <!--
