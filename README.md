@@ -11,7 +11,7 @@ Reverse engineer things.
 
 Talk to myself in the mirror.
 
-Break my stuff and fix it again.
+Break stuff and fix it again.
 
 # I am a dev for
 
