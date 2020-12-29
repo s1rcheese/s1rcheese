@@ -17,7 +17,7 @@ Break stuff and fix it again.
 
 A Minecraft sever named DreamDimensions.
 
-A top-secert project.
+A top-secret project.
 ## Ok thank you!
 
 <!--
