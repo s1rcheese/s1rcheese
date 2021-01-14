@@ -9,6 +9,8 @@ I also know English.
 # Stuff I like to
 Reverse engineer things.
 
+Make useless and stupid but funny stuff
+
 Talk to myself in the mirror.
 
 Break stuff and fix it again.
