@@ -1,10 +1,14 @@
 ### Hello people! 👋
 ## I am s1r_cheese and I like to make random stuff I came up with in my mind.
 
-# Languages I know
+# Programming Languages I know
 JavaScript, Java, C#, HTML(5), and CSS(3).
 
-I also know English.
+# Langauges I know
+
+English (Native by birthplace)
+
+German (Learning)
 
 # Stuff I like to
 Reverse engineer things.
