@@ -2,7 +2,7 @@
 ## I am s1r_cheese and I like to make random stuff I came up with in my mind.
 
 # Programming Languages I know
-JavaScript, Java, C#, HTML(5), and CSS(3).
+JavaScript, Java, C#, C, HTML(5), and CSS(3).
 
 # Langauges I know
 
