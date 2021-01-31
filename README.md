@@ -10,16 +10,17 @@ English (Native by birthplace)
 
 German (Learning)
 
-# Stuff I like to
+# I like to
+
 Reverse engineer things.
 
-Make useless and stupid but funny stuff
+Make useless and stupid stuff
 
-Talk to myself in the mirror.
+Talk to myself in the mirror (apparently I can flirt with myself).
 
 Break stuff and fix it again.
 
-# I am a dev for
+# I work on
 
 A Minecraft sever named DreamDimensions.
 
