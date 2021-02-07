@@ -22,7 +22,7 @@ Break stuff and fix it again.
 
 # I work on
 
-A Minecraft sever named DreamDimensions.
+A Minecraft sever named DreamDimensions (not my server).
 
 A top-secret project.
 ## Ok thank you!
