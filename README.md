@@ -6,9 +6,9 @@ JavaScript, Java, C#, C, HTML(5), and CSS(3).
 
 # Langauges I know
 
-Arabic (Native)
+English (Native)
 
-English (Native but still learning)
+Arabic (Native but still learning)
 
 German (Learning)
 
