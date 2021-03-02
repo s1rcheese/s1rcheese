@@ -1,7 +1,7 @@
 ### Hello people! 👋, I am s1r_cheese.
 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=s1rcheese&count_private=false"/>
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1rcheese&langs_count=10"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=s1rcheese&count_private=true&theme=dark&show_icons=true"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1rcheese&langs_count=10&theme=dark"/>
 
 # Programming Languages I know
 JavaScript, Java, C#, C, HTML(5), and CSS(3).
