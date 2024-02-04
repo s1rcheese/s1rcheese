@@ -8,19 +8,15 @@ JavaScript, Java, C#, C, HTML(5), and CSS(3).
 
 # Langauges I know
 
-English (Native)
+English
 
-Arabic (Native but still learning)
-
-German (Learning)
+Arabic
 
 # I like to
 
 Reverse engineer things.
 
 Make useless and stupid stuff
-
-Talk to myself in the mirror (apparently I can flirt with myself).
 
 Break stuff and fix it again.
 
